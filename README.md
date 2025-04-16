@@ -1,2 +1,2 @@
 # MGCA-Codes
-The codes is coming soon~
+The code is coming soon~
